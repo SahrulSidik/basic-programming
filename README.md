@@ -1,1 +1,1 @@
-Arsip kosong latihan kode dan struktur dasar pemrograman
+Arsip Kosong Repositori belajar mandiri dasar pemrograman dan logika algoritma.
